@@ -1,6 +1,4 @@
-# hello-world
-hello dubuyouta!
-I like java and coding.
+
 
 git 命令的使用：
 
@@ -57,6 +55,7 @@ git pull
 这样你就完成了向远程仓库的推送。
 
 
-学习地址：https://www.jianshu.com/p/d220c88bb516
-
-
+学习地址：
+https://www.jianshu.com/p/d220c88bb516
+提交修改的文件：
+https://blog.csdn.net/yidu_fanchen/article/details/78663359
